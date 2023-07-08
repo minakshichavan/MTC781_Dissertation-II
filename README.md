@@ -1,8 +1,7 @@
 # MTC781_Dissertation-II
 
-Dissertation 2 - Secured Package and Data Transmission through DevOps Methodology - POC
 
-# Red Hat Package Manager for Payload Delivery
+# Secured Package and Data Transmission through DevOps Methodology - POC
 ## _A Dissertation 2 Project PoC by Minakshi Pushpendra Chavan_
 
 
