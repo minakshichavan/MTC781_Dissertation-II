@@ -630,7 +630,7 @@ nfOogiIvHgU=
 1 directory, 9 files
 
 ```
-Hosted this entire directory `/tmp/minakshi-mtc781` at http://pushpendrachavan/minakshi-mtc781 along with the public key and `yum` package `metadata`
+Hosted this entire directory `/tmp/minakshi-mtc781` at http://pushpendrachavan.in/minakshi-mtc781 along with the public key and `yum` package `metadata`
 
 ## Step 10 - Create a `repo` file on any Red Hat Enterprise Linux/CentOS/Fedora Linux/Scientic Linux/Oracle Linux pointing out to the onlie repository as follows.
 Create a repo file as follows.
